@@ -1,0 +1,29 @@
+{
+  "name": "btype-hook",
+  "version": "1.0.0",
+  "description": "A way to use BType in Node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbasta/btype-hook.git"
+  },
+  "keywords": [
+    "btype",
+    "require",
+    "hook",
+    "compiler"
+  ],
+  "author": "Matt Basta <me@mattbasta.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattbasta/btype-hook/issues"
+  },
+  "homepage": "https://github.com/mattbasta/btype-hook#readme",
+  "dependencies": {
+    "btype": "0.2.*",
+    "node-hook": "^0.2.0"
+  }
+}
